@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Issues Screen task</string>
+    <string name="app_bar_back_arrow_description">Back Arrow</string>
+    <string name="issues_app_bar_title">Issues</string>
+    <string name="issue_1">Bump pyarrow from 7</string>
+    <string name="issue_2">Francais</string>
+    <string name="issue_3">Bump werkzeug from </string>
+    <string name="issue_4">Bump urlib3 </string>
+    <string name="issue_5">Bump urlib3 from 1.2</string>
+    <string name="issue_6">Bump pyarrow from 7</string>
+    <string name="created_at">Created At:</string>
+    <string name="none">None</string>
+    <string name="open">Open</string>
+    <string name="date">2023-11-9,</string>
+    <string name="time">23:02 PM</string>
+
+
+
+</resources>
